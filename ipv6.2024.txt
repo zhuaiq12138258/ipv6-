@@ -24,35 +24,7 @@ CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv17
-CCTV1,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv1 
-CCTV2,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv2
- CCTV3,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv3 
- CCTV4,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv4 
- CCTV5,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv5 
- CCTV5+,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv5p 
- CCTV6,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv6 
- CCTV7,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv7
-  CCTV8,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv8
-  CCTV9,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv9 
-  CCTV10,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv10 
-  CCTV11,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv11 
-  CCTV12,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv12 
-  CCTV13,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv13 
-  CCTV14,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv14 
-  CCTV15,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv15
-  CCTV16,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv16 
-  CCTV17,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv17
 重温经典,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=635 
-
-CCTV1,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=488 
-CCTV2,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=061 
-CCTV3,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=062 
-CCTV4,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=063 
-CCTV9,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=128 
-CCTV16_4K,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv164k
-CCTV17,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=204
-
-
 CCTV1,http://60.12.183.46:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://60.12.183.46:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://60.12.183.46:9901/tsfile/live/0003_1.m3u8
@@ -85,83 +57,6 @@ CCTV13,http://61.175.237.198:9901/tsfile/live/0013_1.m3u8
 CCTV14,http://61.175.237.198:9901/tsfile/live/0014_1.m3u8
 CCTV15,http://61.175.237.198:9901/tsfile/live/0015_1.m3u8
 V4卫视专线,#genre#
-
-江苏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=jsws
-广西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=gxws 
-四川卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=scws 
-湖南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hunan 
-浙江卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=zjws 
-东方卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=dfws 
-北京卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=bjws 
-天津卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=tjws
- 辽宁卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=lnws
- 安徽卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=ahws 
-黑龙江卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hljws 
-广东卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=gdws
-深圳卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=szws 
-湖北卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hubei 
-吉林卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=jlws 
-山东卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=sdws 
-江西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=jxws 
-河南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hnws
-河北卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hbws 
-甘肃卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=gsws 
-重庆卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cqws 
-东南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=dnws 
-云南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=ynws
- 贵州卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=gzws 
-海南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hainan 
-康巴卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=kbws 
-内蒙古卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=nmgws 兵团卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=btws 
-新疆卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=xjws 
-西藏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=xzws 
-西藏藏语,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=xzzy 
-青海卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=qhws 
-宁夏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=nxws 
-山西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=shanxi 
-陕西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=sxws
-
-辽宁卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=058 
-江苏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=085 
-天津卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=084 
-湖南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=086 
-北京卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=083 
-黑龙江卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=095 
-广东卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=092
-东方卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=093
-浙江卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=094 
-吉林卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=097 
-安徽卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=096 
-江西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=098 
-山东卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=099 
-贵州卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=101
-深圳卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=100 
-湖北卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=102 
-四川卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=103
-陕西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=512 
-河南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=339
-海南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=473 
-云南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=482 
-东南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=483 
-河南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=104
-重庆卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=107
-山西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=109 
-河北卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=108 
-青海卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=111 
-内蒙古卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=110
-广西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=116
-云南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=115 
-宁夏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=118 
-陕西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=114 
-延边卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=117 
-甘肃卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=119 
-西藏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=121
-农林卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=122
-兵团卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=124
-
-
-
-
 北京卫视,http://60.12.183.46:9901/tsfile/live/0015_2.m3u8
 江苏卫视,http://60.12.183.46:9901/tsfile/live/0017_1.m3u8
 东方卫视,http://60.12.183.46:9901/tsfile/live/0018_1.m3u8
@@ -395,27 +290,6 @@ IPTV淘Baby,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 北京IPTV淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
 北京IPTV淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
 
-V6青哥iHOT,#genre#
-iHOT爱经典,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-iHOT爱历史,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-iHOT爱悬念,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
-iHOT爱电竞,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-iHOT爱奇谈,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
-iHOT爱怀旧,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-iHOT爱浪漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
-iHOT爱青春,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-iHOT爱赛车,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-iHOT爱玩具,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-iHOT爱喜剧,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-iHOT爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-iHOT爱动漫,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-iHOT爱幼教,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-iHOT蝶战,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
-iHOT爱都市,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
-iHOT爱科幻,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
-iHOT爱科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-iHOT爱旅行,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-iHOT爱体育,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 
 
 V6影视专线,#genre#
