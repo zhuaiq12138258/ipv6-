@@ -352,16 +352,16 @@ V6影视专线,#genre#
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 华数4K,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-4k影视,http://117.9.171.16:8888/udp/225.1.2.190:5002
-斗鱼4K影院,>
+斗鱼4K影院,http://159.75.85.63:35455/douyu/9249162
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
-中录动漫,http://221.237.190.219:8888/udp/239.93.1.188:5140
-4K乐享超清,http://221.237.190.219:8888/udp/239.93.0.43:5140
-亲子趣学,http://221.237.190.219:8888/udp/239.93.1.191:5140
-绚影4K,http://221.237.190.219:8888/udp/239.93.42.33:5140
 百事通4K,http://222.71.11.180:4022/udp/239.45.1.42:5140
-斗鱼4K,http://159.75.85.63:35455/douyu/9249162
 北京8k测试,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+北京IPTV[4K],http://61.51.141.145:8888/rtp/239.3.1.249:8001
+北京IPTV[4K],http://111.196.131.75:4022/rtp/239.3.1.249:8001
+北京IPTV[4K],http://221.217.53.241:8686/rtp/239.3.1.249:8001
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
+
 
 🇭🇰两岸三地,#genre#
 
