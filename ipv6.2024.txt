@@ -512,31 +512,7 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9
 津津悦读4K,http://221.237.36.88:8888/udp/239.93.1.197:5140
 
 
-🇭🇰两岸三地,#genre#
 
-凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰资讯,http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
-凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
-凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-星空卫视,http://119.34.189.27:33333/udp/224.1.100.13:11111
-翡翠台HD,http://119.34.189.27:33333/udp/224.1.100.121:11111
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
-澳門Macau,http://61.244.22.5/ch3/ch3.live/playelist.m3u8
-人间卫视,https://epg.pw/stream/05b9099bef592e55129817a0f82b4cc60378970bc856b993ae9e330e85f4351f.m3u8#https://epg.pw/stream/925df6e71c4dd75f935dbe02200a19e3893eea0a125da4d28447546e7a8bd092.m3u8
-民视新闻HD,https://epg.pw/stream/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8#https://epg.pw/stream/6fa1566ea8689cbf43afb55f899dc5ee945e1caabde5bfc367cc510aa794d313.m3u8
-大愛2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8#https://epg.pw/stream/5fccf4a4972d39810ed6ac299db54c1cd33cf614dc04364ed982a90592ebff1f.m3u8
-越南-CTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
-
-朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8#http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
-韩国-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-韩国-CKTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 
 
 
