@@ -347,7 +347,6 @@ sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 台视,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 越南-CTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
 朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8#http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
@@ -358,8 +357,6 @@ sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8
 3840X2160专区,#genre#
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 4K测试,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-绚影4K,http://221.237.36.88:8888/udp/239.93.42.33:5140
-斗鱼4K影院,http://159.75.85.63:35455/douyu/9249162
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 4K乐享超清,http://221.237.36.88:8888/udp/239.93.0.43:5140
 百事通4K,http://222.71.11.180:4022/udp/239.45.1.42:5140
@@ -368,15 +365,6 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 北京IPTV[4K],http://111.196.131.75:4022/rtp/239.3.1.249:8001
 北京IPTV[4K],http://221.217.53.241:8686/rtp/239.3.1.249:8001
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-
-亲子趣学4K,http://221.237.36.88:8888/udp/239.93.1.191:5140
-中录动漫4K,http://221.237.36.88:8888/udp/239.93.1.188:5140
-津津悦读4K,http://221.237.36.88:8888/udp/239.93.1.197:5140
-
-
-
-
-
 
 🎬24H轮播,#genre#
 林正英,http://lxajh.top/tv/douyu.php?id=7356023
@@ -879,10 +867,6 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9
 熊出没•变形记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 
 🎮游戏赛事,#genre#
-和平精英[壹],http://cfss.cc/cdn/hy/29447288.flv
-和平精英[贰],http://cfss.cc/cdn/hy/129328.flv
-王者荣耀赛事,http://cfss.cc/cdn/hy/660002.flv
-王者荣耀k甲资格赛,http://cfss.cc/cdn/hy/660164.flv
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 绝地求生,http://tc-tct.douyucdn2.cn/dyliveflv1/100rPCLP_2000.flv?wsAuth=57c9e2f98378658f92fd61fc2a7c50f0&token=cpn-androidmpro-0-100-7280476511a877c27e63dccc58624acea75be41362f58e9c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 和平精英,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
