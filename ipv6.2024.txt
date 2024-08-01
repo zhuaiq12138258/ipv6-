@@ -330,12 +330,6 @@ IPTV淘Baby,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8
 
-北京IPTV淘系列,#genre#
-北京IPTV淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
-北京IPTV淘萌宠,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
-北京IPTV淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
-北京IPTV淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
-北京IPTV淘精彩,http://qnap.yjnhome.com:4000/udp/239.3.1.178:8001
 
 两岸三地,#genre#
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
@@ -355,17 +349,7 @@ sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8
 韩国-CKTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 
 
-3840X2160专区,#genre#
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-4K测试,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
-4K乐享超清,http://221.237.36.88:8888/udp/239.93.0.43:5140
-百事通4K,http://222.71.11.180:4022/udp/239.45.1.42:5140
-北京8k测试,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-北京IPTV[4K],http://61.51.141.145:8888/rtp/239.3.1.249:8001
-北京IPTV[4K],http://111.196.131.75:4022/rtp/239.3.1.249:8001
-北京IPTV[4K],http://221.217.53.241:8686/rtp/239.3.1.249:8001
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
 
 🎬24H轮播,#genre#
 林正英,http://lxajh.top/tv/douyu.php?id=7356023
