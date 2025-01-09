@@ -61,35 +61,6 @@ CETV-2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8
 
 CETV-4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 
-
-V6NewTv,#genre#
-NewTV精品萌宠,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000122
-NewTV动作电影,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000106
-NewTV古装剧场,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000105
-NewTV明星大片,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019008/1.m3u8
-NewTV惊悚悬疑,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000113
-NewTV金牌综艺,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000112
-NewTV军事评论,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000110
-NewTV爱情喜剧,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000104
-NewTV精品大剧,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000100
-
-NewTV怡伴健康,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000103
-NewTV精品体育,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000102
-NewTV军旅剧场,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000107
-NewTV家庭剧场,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000108
-NewTV中国功夫,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000101
-NewTV农业致富,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000111
-NewTV潮妈辣婆,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000099
-NewTV超级综艺,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000019
-NewTV超级体育,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000020
-NewTV超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-NewTV超级电影,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000021
-NewTV炫舞未来,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000098
-NewTV东北热剧,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000092
-NewTV欢乐剧场,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000091
-黑莓动画,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000096
-黑莓电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019624/1.m3u8
-
 英叔鬼片系列,#genre#
 画皮之阴阳法王,https://yzzy.play-cdn17.com/20230820/16614_d1053197/index.m3u8
 羞羞鬼,https://yzzy.play-cdn17.com/20230815/15878_1e6f2832/index.m3u8
@@ -122,13 +93,6 @@ https://yzzy.play-cdn12.com/20221223/12483_eadca0e0/index.m3u8
 钟馗嫁妹,https://yzzy.play-cdn2.com/20220415/13299_186347fc/index.m3u8
 驱魔道长,https://yzzy.play-cdn2.com/20220406/8061_b3ca8ae8/index.m3u8
 非洲和尚,https://yzzy.play-cdn2.com/20220331/4915_d3324d75/index.m3u8
-
-
-
-
-
-
-
 
 两岸三地,#genre#
 凤凰资讯台,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
@@ -214,7 +178,98 @@ CHANNEL-V,http://wouu.net:9977/udp/239.93.1.7:2194
 吐槽大会,http://lxajh.top/tv/douyu.php?id=9236042
 4K影院,http://lxajh.top/tv/douyu.php?id=9249162
 
-🉑沙雕动画,#genre#
+沙雕动画虾仁,#genre#
+剑神小虾仁,https://vdse.bdstatic.com//86f03c51ba55594d5d3b542dae097082.mp4
+
+小虾仁将军,https://vdse.bdstatic.com//c1986f3b159f008e14663f710609da6b.mp4
+
+
+大明虾老六,https://vd3.bdstatic.com/mda-qm2fq3q7khd4w55d/sc/cae_h264/1733229712618670205/mda-qm2fq3q7khd4w55d.mp4
+
+虾仁喜当爹,https://vd3.bdstatic.com/mda-qmqd22kauwnigwbv/sc/cae_h264/1735121615922031317/mda-qmqd22kauwnigwbv.mp4
+
+最色虾仁,https://vdse.bdstatic.com//2f3e89703f8b00fb92cfc10d4c290bfa.mp4
+穿越虾仁,https://vdse.bdstatic.com//5f724db0b16dcbe17bb470781d8140f5.mp4
+
+此子国士也,https://vdse.bdstatic.com//a6e02a660be7e9c3c1c22608ba17bc1d.mp4
+穿越大唐成太子,https://vdse.bdstatic.com//5540f0a34097c82e8669b8cfad891bc4.mp4
+虾仁新剧,https://vdse.bdstatic.com//3e4728e7072aa819dfbe757c0c0f483f.mp4
+开局把公主得罪了,https://vdse.bdstatic.com//fde2bc862b3b5fe85ca5abadabf6e4a1.mp4
+白手起家小虾仁,https://vdse.bdstatic.com//b7a0afb0821795ca2097b370f3d9b8c4.mp4
+重生大明皇子,https://vdse.bdstatic.com//82e30710195cf8927a971f02b952db3d.mp4
+大明奉天兵变,https://vdse.bdstatic.com//1d994e48071d52b7be08a7c745e24067.mp4
+穿越射雕英雄传,https://vdse.bdstatic.com//0a14d52d73257cfdc547aca12ae0a924.mp4
+无敌乖孙,https://vdse.bdstatic.com//0a14d52d73257cfdc547aca12ae0a924.mp4
+穿越明朝造反记,https://vdse.bdstatic.com//0a14d52d73257cfdc547aca12ae0a924.mp4
+虾仁只想做个扫地工,https://vdse.bdstatic.com//8952527ba1100ee83af12da10a1aee2a.mp4
+虾仁长生不死,https://vdse.bdstatic.com//2b4f7621cb5a7eb44d7f2a612c9a96b3.mp4
+虾仁修仙,https://vdse.bdstatic.com//de76c1a4c24568528fe027d958296b11.mp4
+锦绣大唐,https://vdse.bdstatic.com//373ad1982a5ca23f010ab391d4b1e6ec.mp4
+大明虾哥哥,https://vdse.bdstatic.com//0bb6cb15700fc7fba4d4fb2eabc032ad.mp4
+不二忠臣,https://vdse.bdstatic.com//c6bfe671ecf18b0bd8ae8c22d19bc608.mp4
+野神虾,https://vdse.bdstatic.com//408839014e3fcce707475d5ffc72088f.mp4
+明初朱二爷,https://vdse.bdstatic.com//d6acb038280e4150e89e10bc281f2966.mp4
+虾仁穿越到大明,https://vdse.bdstatic.com//536eef34a696221cc451c45e57e09290.mp4
+诗圣虾仁,https://vdse.bdstatic.com//d25909529fd797dedb0940e50edbb0fe.mp4
+开局就被催婚,https://vdse.bdstatic.com//9d0c79da560a08122388dea45ffc36e8.mp4
+我在西游记打劫,https://vdse.bdstatic.com//eea0b791dcc83535751ff8e8c7590a74.mp4
+陛下求我吧,https://vdse.bdstatic.com//9fb95dfa84486cb070e788aa195b070c.mp4
+一口气看完系列,https://vdse.bdstatic.com//dc25b5aa0954495c070e740195041eb6.mp4
+圣龙传奇凡界篇,https://vdse.bdstatic.com//1a01ac0ea1589a84315590873e7e5203.mp4
+
+一口气看完,https://vdse.bdstatic.com//b2a2de8c15b4b10669b6c78132945f89.mp4
+
+大道长生,https://vdse.bdstatic.com//5aa4f55a719d68f0ebbea0e5fd7a03dc.mp4
+大合集蹲坑板,https://vdse.bdstatic.com//b071b0fd049bba4e1dd3c1f0a381fe69.mp4
+梦回白娘子,https://vdse.bdstatic.com//524f623fd7a7c6d4b1aad0ca9c946c6e.mp4
+幽冥梦穿书生,https://vdse.bdstatic.com//17c3cd84b959d6209c3aab8d089051d0.mp4
+天降国师虾,https://vdse.bdstatic.com//cdbdb44d18956cdcbbc1c48653bc40ab.mp4
+桃仙九世,https://vdse.bdstatic.com//cdbdb44d18956cdcbbc1c48653bc40ab.mp4
+天命大反派,https://vdse.bdstatic.com//055850a2421c1980d85f7902db036e2a.mp4
+一口气看完大明,https://vdse.bdstatic.com//ba65bc90386af29c1d50ee9dfe24c20c.mp4
+
+
+虾仁5小时蹲坑板,https://vdse.bdstatic.com//3724c1e6955bf23cb47ffa6bb0835301.mp4
+三小时蹲坑板,https://vdse.bdstatic.com//932afe2b4991a6508c549878535e1c98.mp4
+
+带系统的虾仁,https://vdse.bdstatic.com//b27d7f7ff31fbc0182183a6c4688f0ca.mp4
+
+起源商店,https://vdse.bdstatic.com//aaca8e2786698b45a2c92f28f370fe70.mp4
+
+我父魏忠贤,https://vdse.bdstatic.com//aaca8e2786698b45a2c92f28f370fe70.mp4
+
+大明最强番王,https://vdse.bdstatic.com//ccbed8fc02e0bb9a8a60ef904ca7bf1a.mp4
+
+侠道长生,https://vdse.bdstatic.com//08ca8784dc5b3a32fa3adc150e0f0526.mp4
+虾仁练气10万年,https://vdse.bdstatic.com//68fdfb7ee815de69acc25f7a32f43fb3.mp4
+
+穿越西游成一只蚂蚁,https://vdse.bdstatic.com//617f383e9c25a3e3a9d9f0d9881c075b.mp4
+
+世子凶猛,https://vdse.bdstatic.com//89471cfd0cbebf7b38eb8d0bb9d797e5.mp4
+
+穿越我登基做皇帝,https://vdse.bdstatic.com//2c2ce04e6b94d57d63ba2b3bfc3204dc.mp4
+
+穿越大明！,https://vdse.bdstatic.com//1415c507cc53f0bf42499d4219093cb7.mp4
+
+虾仁拥有强化功能,https://vdse.bdstatic.com//c0481996d4cd8da0cb946b854c240d2a.mp4
+
+虾仁穿越,https://vdse.bdstatic.com//c5fd604ea7b163215b8349fb02cd8ba3.mp4
+
+虾仁打造大秦帝国,https://vdse.bdstatic.com//43e41eed8a5eb8fd6b97a8e0f04357c4.mp4
+
+一品布衣,https://vd3.bdstatic.com/mda-qkfac2tcjy580p1j/720p/h264/1731741894728705183/mda-qkfac2tcjy580p1j.mp4?pd=19&vt=1
+
+永乐大帝虾仁,https://vd3.bdstatic.com/mda-qkajg2vt5cdypqzi/720p/h264/1731333783571831437/mda-qkajg2vt5cdypqzi.mp4?pd=19&vt=1
+大梦千年虾仁,https://vd3.bdstatic.com/mda-qkaqtkve9m1jv0s9/720p/h264/1731349640729273474/mda-qkaqtkve9m1jv0s9.mp4?pd=19&vt=1
+梦回三国虾仁,https://vd3.bdstatic.com/mda-qkd8vycbvqqs6npn/720p/h264/1731565268144945679/mda-qkd8vycbvqqs6npn.mp4?pd=19&vt=1
+
+虾仁很如意上,https://vd3.bdstatic.com/mda-qke4gsn6hf5kczpz/720p/h264/1731640589066675984/mda-qke4gsn6hf5kczpz.mp4?pd=19&vt=1
+虾仁很如意下,https://vd3.bdstatic.com/mda-qke4nvkrgcmui135/720p/h264/1731640935999181049/mda-qke4nvkrgcmui135.mp4?pd=19&vt=1
+大唐犟种虾,https://vd3.bdstatic.com/mda-qksm125we071nr6c/720p/h264/1732719436259669153/mda-qksm125we071nr6c.mp4?pd=19&vt=1
+小小虾神医,https://vd3.bdstatic.com/mda-qkskvjchcq8hvgn0/sc/cae_h264/1732726748156883333/mda-qkskvjchcq8hvgn0.mp4?pd=19&vt=1
+大明狠人虾仁,https://vd3.bdstatic.com/mda-qmbmiss3zuq0ipz9/720p/h264/1734017383620055310/mda-qmbmiss3zuq0ipz9.mp4?pd=19&vt=1
+
+
 穿越到大明我自称神仙,https://vd3.bdstatic.com/mda-pk96k30b3mww9r5h/720p/h264/1699591630925607903/mda-pk96k30b3mww9r5h.mp4
 我在秦朝当仙人,https://vdse.bdstatic.com//f6388bf885815c1c768a8378ff85eef2.mp4
 我在大唐做仙人,https://vd3.bdstatic.com/mda-pfs3r20j05juyadz/cae_h264/1687880061657948559/mda-pfs3r20j05juyadz.mp4
