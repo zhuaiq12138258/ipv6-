@@ -5,6 +5,27 @@
 严谨商用,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
 后果自负,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
 
+咕咪央视高,#genre#
+CCTV-01,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-02,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV-03,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-04,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-05,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV-06,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-07,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-08,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-09,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-16,http://112.103.140.109:9003/hls/16/index.m3u8
+CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
+cct4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
+cct4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 V4央视专线,#genre#
 CCTV1,https://tvpull.careryun.com/tv/cctv1.m3u8
 CCTV2,https://tvpull.careryun.com/tv/cctv2.m3u8
