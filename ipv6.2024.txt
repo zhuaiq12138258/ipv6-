@@ -26,6 +26,7 @@ CCTV-16,http://112.103.140.109:9003/hls/16/index.m3u8
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 cct4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
 cct4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 V4央视专线,#genre#
 CCTV1,http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthN0dxRGtScWR2%0AdmJtV1hIc0t5clRnQ2x6eEQ0NkRUWnhhNUpqYVE0VURZQ0dnMG5ZZVd3QWtHbEtodEIyVnIvL01T%0ANW9Ja3k0WW5Ob3ljSDF2SGFIT05SMkc5SjE4a0JCL2x1c1VFaFhjYis0NWh0REpORVBVMk5NS3c9%0APQ%3D%3D%0A
 CCTV1,http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVROCthNm1LQmxoK2J1%0AdjdnV25mdEt5dmFoQ0p6eEQ0NkRUWnhhNUpqYVE0VURZQ0dnMG5ZWW1nQWsyWlQxTE5DU2FYc09E%0AUjNMUmV3WlhOdXdjUHl1WE9ETTlKMUg5ZDA5RWxHNEJHclRWbGZiNnE3dmhkV2Q5QVpla3dYZHd3%0APQ%3D%3D%0A
