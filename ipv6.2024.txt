@@ -208,39 +208,6 @@ V4卫视专线,#genre#
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 
 
-英叔鬼片系列,#genre#
-画皮之阴阳法王,https://yzzy.play-cdn17.com/20230820/16614_d1053197/index.m3u8
-羞羞鬼,https://yzzy.play-cdn17.com/20230815/15878_1e6f2832/index.m3u8
-僵尸至尊,https://yzzy.play-cdn17.com/20230814/15760_aec9d4d3/index.m3u8
-天地玄门,https://yzzy.play-cdn17.com/20230814/15777_74ca43b5/index.m3u8
-赢钱专家,https://yzzy.play-cdn17.com/20230814/15821_861b47ab/index.m3u8
-鬼打鬼之黄金道士,https://yzzy.play-cdn17.com/20230807/14759_b2a9b06a/index.m3u8
-灵幻先生,https://yzzy.play-cdn17.com/20230807/14766_ae957d7d/index.m3u8
-驱魔警察,https://yzzy.play-cdn17.com/20230807/14770_18541621/index.m3u8
-https://yzzy.play-cdn12.com/20221223/12483_eadca0e0/index.m3u8
-追魂伞,https://yzzy.play-cdn13.com/20230323/18434_80eb7193/index.m3u8
-鬼咬鬼,https://yzzy.play-cdn6.com/20220627/1810_a941ae91/index.m3u8
-人吓人,https://yzzy.play-cdn4.com/20220606/17326_e82f4ca9/index.m3u8
-哗鬼旅行团,https://yzzy.play-cdn4.com/20220606/17333_0538779d/index.m3u8
-僵尸先生,https://yzzy.play-cdn4.com/20220606/17339_793cd35e/index.m3u8
-僵尸家族,https://yzzy.play-cdn4.com/20220606/17340_6ed4e71a/index.m3u8
-富贵列车,https://yzzy.play-cdn4.com/20220606/17345_37851e8a/index.m3u8
-鬼打鬼,https://yzzy.play-cdn4.com/20220606/17346_ce9344e6/index.m3u8
-人吓鬼https://yzzy.play-cdn3.com/20220513/21694_eda0a041/index.m3u8
-一眉道人,https://yzzy.play-cdn3.com/20220513/21734_f4a75ec9/index.m3u8
-血玫瑰,https://yzzy.play-cdn3.com/20220513/21731_2f183f9f/index.m3u8
-密中威龙,https://yzzy.play-cdn2.com/20220416/13993_d8e142e7/index.m3u8
-甩皮鬼,https://yzzy.play-cdn2.com/20220416/14010_396830af/index.m3u8
-灵幻至尊,https://yzzy.play-cdn2.com/20220416/13985_6b78280b/index.m3u8
-精灵变,https://yzzy.play-cdn2.com/20220416/13977_96bbf5c2/index.m3u8
-妖怪都市,https://yzzy.play-cdn2.com/20220416/14027_2f281bd2/index.m3u8
-黄大仙,https://yzzy.play-cdn2.com/20220416/13971_0493a23f/index.m3u8
-新僵尸先生,https://yzzy.play-cdn2.com/20220416/14024_62f651eb/index.m3u8
-音乐僵尸,https://yzzy.play-cdn2.com/20220416/14030_73e670fb/index.m3u8
-钟馗嫁妹,https://yzzy.play-cdn2.com/20220415/13299_186347fc/index.m3u8
-驱魔道长,https://yzzy.play-cdn2.com/20220406/8061_b3ca8ae8/index.m3u8
-非洲和尚,https://yzzy.play-cdn2.com/20220331/4915_d3324d75/index.m3u8
-
 
 4K,#genre#
 华数4K,http://127.0.0.1:9978/proxy?do=饭太硬&type=m3u8&url=QU83VGNCa2Q4SkNhK1FRWThnM0NzWkIwS29aR0hKcFZXVHhScU9mdnlVSlVRODZhN0dxRGtScWR2%0AZkRtV1hIdUxTbmFoQ0p6bkg0eFh6bG5SY0o4TWlFZkFvL0hoa3FMTkdBUjIycEwxZUp5UTcrK0dp%0AdHRNaFRoSmlnOHhzZjF2SFdFT05SMkdkRnk4a0JDNkFQK0VoY2ViTENwdmtjVU5jSlNLeUVHUEEy%0AZjVxMWE%3D%0A
