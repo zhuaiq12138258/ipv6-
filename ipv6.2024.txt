@@ -206,6 +206,23 @@ V4卫视专线,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+港澳频道,#genre#
+CCTV1(港澳版),https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+HOY TV,https://cdn.163189.xyz/live/hoy/stream.m3u8
+澳视卫星,https://cdn.163189.xyz/live/as/stream.m3u8
+澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
+广东珠江,https://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
+重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
+TVB J1,https://cdn3.163189.xyz/live/j1/stream.m3u8
+TVB华丽台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+TVB新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+RTHK31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 
 
 
