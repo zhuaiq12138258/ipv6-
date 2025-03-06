@@ -4,7 +4,6 @@
 个人学习所用,https://vd2.bdstatic.com/mda-ncg1mhvhiy7fkgzs/sc/cae_h264_delogo/1647481028509277070/mda-ncg1mhvhiy7fkgzs.mp4
 严谨商用,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
 后果自负,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
-重温经典,http://tv.bfsu.edu.cn/hls/cwjdhd.m3u8
 
 V4央视专线,#genre#
 
@@ -50,6 +49,7 @@ CCTV17,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/817
 中国教育1台,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/3393
 中国教育2台,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/391
 
+重温经典,http://tv.bfsu.edu.cn/hls/cwjdhd.m3u8
 
 V4卫视专线,#genre#
 
@@ -128,14 +128,15 @@ V4卫视专线,#genre#
 凤凰资讯,https://tv.bfsu.edu.cn/hls/fhzx.m3u8
 凤凰中文,https://tv.bfsu.edu.cn/hls/fhzw.m3u8
 凤凰电影,https://tv.bfsu.edu.cn/hls/fhdy.m3u8
-Discovery,https://tv.bfsu.edu.cn/hls/discovery.m3u8
-国家地理,https://tv.bfsu.edu.cn/hls/natlgeo.m3u8
-Channel V,https://tv.bfsu.edu.cn/hls/channelv.m3u8
 星空卫视,https://tv.bfsu.edu.cn/hls/startv.m3u8
-Star Sports,https://tv.bfsu.edu.cn/hls/starsports.m3u8
-
+国家地理,https://tv.bfsu.edu.cn/hls/natlgeo.m3u8
 CHC家庭影院,https://tv.bfsu.edu.cn/hls/chctv.m3u8
 CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8
+Star Sports,https://tv.bfsu.edu.cn/hls/starsports.m3u8
+Discovery,https://tv.bfsu.edu.cn/hls/discovery.m3u8
+
+Channel V,https://tv.bfsu.edu.cn/hls/channelv.m3u8
+
 地方频道,#genre#
 金鹰卡通,https://tv.bfsu.edu.cn/hls/jykttv.m3u8
 北京文艺,http://tv.bfsu.edu.cn/hls/btv2hd.m3u8
