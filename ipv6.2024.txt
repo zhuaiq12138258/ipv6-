@@ -54,13 +54,36 @@ V4卫视专线,#genre#
 
 
 🇭🇰香港🇭🇰,#genre#
-凤凰中文,http://211.67.191.23/hls/fhzw/index.m3u8
-凤凰卫视,http://211.67.191.23/hls/fhzx/index.m3u8
-凤凰电影,http://211.67.191.23/hls/fhdy/index.m3u8
-Discovery,http://211.67.191.23/hls/discovery/index.m3u8
-国家地理,http://211.67.191.23/hls/natlgeo/index.m3u8
-Channel V,http://211.67.191.23/hls/channelv/index.m3u8
-星空卫视,http://211.67.191.23/hls/startv/index.m3u8
+翡翠台,http://47.76.146.40:2095/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+
+無線新聞台,http://47.76.146.40:2095/stream/bxtv/null-1/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+
+鳳凰中文,http://47.76.146.40:2095/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+
+鳳凰資訊,http://47.76.146.40:2095/stream/bxtv/null-3/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+
+鳳凰香港,http://47.76.146.40:2095/stream/bxtv/null-4/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+
+测试，http://ali.hlspull.yximgs.com/live/15626.flv
+测试，1,http://ali.hlspull.yximgs.com/live/15636.flv
+
+2,http://ali.hlspull.yximgs.com/live/22331.flv
+
+3,http://ali.hlspull.yximgs.com/live/22332.flv
+
+4,http://ali.hlspull.yximgs.com/live/22334.flv
+
+5,http://ali.hlspull.yximgs.com/live/22333.flv
+
+hoy77测试,https://redian.isct.cn:801/live/xiangjiao-hoy77/hls.m3u8
+
+hoy78测试,https://redian.isct.cn:801/live/xiangjiao-hoy78/hls.m3u8
+
+测试,https://redian.isct.cn:801/live/xiangjiao-ztxw/hls.m3u8
+
+测试,https://redian.isct.cn:801/live/xiangjiao-hyxw/hls.m3u8
+
+tvbplus,https://redian.isct.cn:801/live/xiangjiao-tvbplus/hls.m3u8
 虎牙轮播专区,#genre#
 周星星,https://live.metshop.top/huya/11342412
  林正英,https://live.metshop.top/huya/11342421
