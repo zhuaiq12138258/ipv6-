@@ -7,25 +7,19 @@
 
 V4央视专线,#genre#
 
-CCTV1,https://tvpull.careryun.com/tv/cctv1.m3u8?txSecret=32c8ddf096855ae7314b1b093f787c1c&txTime=67e7365b
-CCTV2,https://tvpull.careryun.com/tv/cctv2.m3u8?txSecret=3155f6bed0280193018e5459f5f11e33&txTime=67e7365b
-CCTV3,https://tvpull.careryun.com/tv/cctv3.m3u8?txSecret=743cfcf6fb93d96db2affcc7555a050b&txTime=67e7365b
-CCTV4,https://tvpull.careryun.com/tv/cctv4.m3u8?txSecret=d43db42bec29c0f827476a28b63418fe&txTime=67e7365b
-CCTV5,https://tvpull.careryun.com/tv/cctv5.m3u8?txSecret=a8191f7521f22206c97299a922ab89bb&txTime=67e7365b
-CCTV5+,https://tvpull.careryun.com/tv/cctv5plus.m3u8?txSecret=04dba7285accaeeae545555c34072a46&txTime=67e7365b
-CCTV6,https://tvpull.careryun.com/tv/cctv6.m3u8?txSecret=3ddf28790fd1717722a7d9751e234c2d&txTime=67e7365b
-CCTV7,https://tvpull.careryun.com/tv/cctv7.m3u8?txSecret=d30515da24c2ff58a27dd3c75c68a698&txTime=67e7365b
-CCTV8,https://tvpull.careryun.com/tv/cctv8.m3u8?txSecret=16c0f7f3ce36503e39ab65d9c0ea42e8&txTime=67e7365b
-CCTV9,https://tvpull.careryun.com/tv/cctv9.m3u8?txSecret=3941de6a8d64139387f9d8e0d17f18e0&txTime=67e7365b
-CCTV10,https://tvpull.careryun.com/tv/cctv10.m3u8?txSecret=eae154ac6d2109394f350a206cb813a8&txTime=67e7365b
-CCTV11,https://tvpull.careryun.com/tv/cctv11.m3u8?txSecret=5a6f3c3e38d70283a653f0ea52eea98d&txTime=67e7365b
-CCTV12,https://tvpull.careryun.com/tv/cctv12.m3u8?txSecret=f025910886b7011d8f9182bfc7aaf299&txTime=67e7365b
-CCTV13,https://tvpull.careryun.com/tv/cctv13.m3u8?txSecret=60548928a023803606c7a0d8998b33a5&txTime=67e7365b
-CCTV14,https://tvpull.careryun.com/tv/cctv14.m3u8?txSecret=49ff737938a58a87d3e1f5031d5d90b4&txTime=67e7365b
-CCTV15,https://tvpull.careryun.com/tv/cctv15.m3u8?txSecret=59918c3a2fe458ea93386211cdb631cd&txTime=67e7365b
-CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8?txSecret=77c8547e350b4efb57c4963d09c76212&txTime=67e7365b
-CCTV4美洲,https://tvpull.careryun.com/tv/cctv4m.m3u8?txSecret=b29b35044b9e3455dbf7515a866ff374&txTime=67e7365b
-CCTV4欧洲,https://tvpull.careryun.com/tv/cctv4o.m3u8?txSecret=68d425e744630ade76c41a895eaf6d31&txTime=67e7365b
+CCTV-1,http://121.232.178.64:60001/tsfile/live/0001_1.m3u8
+CCTV-2,http://121.232.178.64:60001/tsfile/live/0002_1.m3u8
+CCTV-3,http://121.232.178.64:60001/tsfile/live/0003_1.m3u8
+CCTV-6,http://121.232.178.64:60001/tsfile/live/0006_1.m3u8
+CCTV-7,http://121.232.178.64:60001/tsfile/live/0007_1.m3u8
+CCTV-8,http://121.232.178.64:60001/tsfile/live/0008_1.m3u8
+CCTV-9,1http://121.232.178.64:60001/tsfile/live/0009_1.m3u8
+CCTV-10,http://121.232.178.64:60001/tsfile/live/0010_1.m3u8
+CCTV-11,http://121.232.178.64:60001/tsfile/live/0011_1.m3u8
+CCTV-12,http://121.232.178.64:60001/tsfile/live/0012_1.m3u8
+CCTV-13,http://121.232.178.64:60001/tsfile/live/0013_1.m3u8
+CCTV-14,http://121.232.178.64:60001/tsfile/live/0014_1.m3u8
+CCTV-15,http://121.232.178.64:60001/tsfile/live/0015_1.m3u8
 
 V4卫视专线,#genre#
 东方卫视,https://tvpull.careryun.com/tv/dfws.m3u8?txSecret=788f6346dc07ea9561c8939c63b60250&txTime=67e736a5
