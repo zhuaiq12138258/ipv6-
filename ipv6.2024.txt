@@ -7,6 +7,23 @@
 
 V4央视专线,#genre#
 
+CCTV1,http://106.46.114.147:8011/tsfile/live/0001_1.m3u8?txiptv&playlive
+CCTV2,http://106.46.114.147:8011/tsfile/live/0002_1.m3u8?txiptv&playlive
+CCTV3,http://106.46.114.147:8011/tsfile/live/0003_1.m3u8?txiptv&playlive
+CCTV4,http://106.46.114.147:8011/tsfile/live/0004_1.m3u8?txiptv&playlive
+CCTV5,http://106.46.114.147:8011/tsfile/live/0005_1.m3u8?txiptv&playlive
+CCTV5+,http://106.46.114.147:8011/tsfile/live/0016_1.m3u8?txiptv&playlive
+CCTV6,http://106.46.114.147:8011/tsfile/live/0006_1.m3u8?txiptv&playlive
+CCTV7,http://106.46.114.147:8011/tsfile/live/0007_1.m3u8?txiptv&playlive
+CCTV8,http://106.46.114.147:8011/tsfile/live/0008_1.m3u8?txiptv&playlive
+CCTV9,http://106.46.114.147:8011/tsfile/live/0009_1.m3u8?txiptv&playlive
+CCTV10,http://106.46.114.147:8011/tsfile/live/0010_1.m3u8?txiptv&playlive
+CCTV11,http://106.46.114.147:8011/tsfile/live/0011_1.m3u8?txiptv&playlive
+CCTV12,http://106.46.114.147:8011/tsfile/live/0012_1.m3u8?txiptv&playlive
+CCTV13,http://106.46.114.147:8011/tsfile/live/0013_1.m3u8?txiptv&playlive
+CCTV14,http://106.46.114.147:8011/tsfile/live/0014_1.m3u8?txiptv&playlive
+CCTV15,http://106.46.114.147:8011/tsfile/live/0015_1.m3u8?txiptv&playlive
+
 CCTV-1,http://121.232.178.64:60001/tsfile/live/0001_1.m3u8
 CCTV-2,http://121.232.178.64:60001/tsfile/live/0002_1.m3u8
 CCTV-3,http://121.232.178.64:60001/tsfile/live/0003_1.m3u8
@@ -22,6 +39,28 @@ CCTV-14,http://121.232.178.64:60001/tsfile/live/0014_1.m3u8
 CCTV-15,http://121.232.178.64:60001/tsfile/live/0015_1.m3u8
 
 V4卫视专线,#genre#
+
+广西卫视,http://106.46.114.147:8011/tsfile/live/0113_1.m3u8?txiptv&playlive
+吉林卫视,http://106.46.114.147:8011/tsfile/live/0116_1.m3u8?txiptv&playlive
+山西卫视,http://106.46.114.147:8011/tsfile/live/0118_1.m3u8?txiptv&playlive
+云南卫视,http://106.46.114.147:8011/tsfile/live/0119_1.m3u8?txiptv&playlive
+贵州卫视,http://106.46.114.147:8011/tsfile/live/0120_1.m3u8?txiptv&playlive
+辽宁卫视,http://106.46.114.147:8011/tsfile/live/0121_1.m3u8?txiptv&playlive
+北京卫视,http://106.46.114.147:8011/tsfile/live/0122_1.m3u8?txiptv&playlive
+四川卫视,http://106.46.114.147:8011/tsfile/live/0123_1.m3u8?txiptv&playlive
+浙江卫视,http://106.46.114.147:8011/tsfile/live/0124_1.m3u8?txiptv&playlive
+广东卫视,http://106.46.114.147:8011/tsfile/live/0125_1.m3u8?txiptv&playlive
+深圳卫视,http://106.46.114.147:8011/tsfile/live/0126_1.m3u8?txiptv&playlive
+江苏卫视,http://106.46.114.147:8011/tsfile/live/0127_1.m3u8?txiptv&playlive
+湖南卫视,http://106.46.114.147:8011/tsfile/live/0128_1.m3u8?txiptv&playlive
+安徽卫视,http://106.46.114.147:8011/tsfile/live/0130_1.m3u8?txiptv&playlive
+山东卫视,http://106.46.114.147:8011/tsfile/live/0131_1.m3u8?txiptv&playlive
+湖北卫视,http://106.46.114.147:8011/tsfile/live/0132_1.m3u8?txiptv&playlive
+天津卫视,http://106.46.114.147:8011/tsfile/live/0135_1.m3u8?txiptv&playlive
+陕西卫视,http://106.46.114.147:8011/tsfile/live/0136_1.m3u8?txiptv&playlive
+东南卫视,http://106.46.114.147:8011/tsfile/live/0137_1.m3u8?txiptv&playlive
+
+
 东方卫视,https://tvpull.careryun.com/tv/dfws.m3u8?txSecret=788f6346dc07ea9561c8939c63b60250&txTime=67e736a5
 湖南卫视,https://tvpull.careryun.com/tv/cn_hunws.m3u8?txSecret=162a782b12f49b7c3b1298986d7c8d13&txTime=67e736a5
 浙江卫视,https://tvpull.careryun.com/tv/cn_zjws.m3u8?txSecret=9455d090e3498967cab2366493176617&txTime=67e736a5
