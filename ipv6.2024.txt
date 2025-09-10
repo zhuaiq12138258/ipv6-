@@ -169,119 +169,119 @@ AMC电影台,http://150.138.77.132:10037/150.php?id=AMC电影台
 
 
 虎牙轮播专区,#genre#
-周星星,https://live.metshop.top/huya/11342412
- 林正英,https://live.metshop.top/huya/11342421
-沈腾,https://live.metshop.top/huya/11601968
-成龙,https://live.metshop.top/huya/11342386
-李连杰,https://live.metshop.top/huya/11342390
-刘德华,https://live.metshop.top/huya/11342424
-王晶,https://live.metshop.top/huya/11602058
-中华小当家,https://live.metshop.top/huya/11342413
-杰森·斯坦森,https://live.metshop.top/huya/21059588
-喜剧专场,https://live.metshop.top/huya/11602044
-甄子丹,https://live.metshop.top/huya/11352935
-巨石强森,https://live.metshop.top/huya/21059581
-洪金宝,https://live.metshop.top/huya/1279251
-詹姆斯邦德,https://live.metshop.top/huya/21059585
-周润发,https://live.metshop.top/huya/11342387
-徐峥,https://live.metshop.top/huya/11602043
-许氏三杰,https://live.metshop.top/huya/11602033
-黄渤,https://live.metshop.top/huya/11352876
-张卫健,https://live.metshop.top/huya/11342423
-经典港片老电影,https://live.metshop.top/huya/30569705
-蓝光4k,http://8.138.90.107/虎公众号睡眼迷离的猫.php?id=11352909
-经典电影怀旧,https://live.metshop.top/huya/30545789
-豆瓣9.8分电影,https://live.metshop.top/huya/30488738
-电影,https://live.metshop.top/huya/126859
-德爷荒野求生,https://live.metshop.top/huya/16289380
-荒野求生,https://live.metshop.top/huya/593667
-和平精英,https://live.metshop.top/huya/962270
-天天吃鸡,https://live.metshop.top/huya/52988
-穿越火线,https://live.metshop.top/huya/512000
-王者荣耀,https://live.metshop.top/huya/861098
-麻将,https://live.metshop.top/huya/520611
-武林外传动画版,https://live.metshop.top/huya/28029108
-斗罗大陆,https://live.metshop.top/huya/11352906
-百鸟朝凤,https://live.metshop.top/huya/15894162
-陈翔六点半,https://live.metshop.top/huya/11274154
-电锯惊魂,https://live.metshop.top/huya/11352903
-虎牙电影,https://live.metshop.top/huya/618917
-港台电影,https://live.metshop.top/huya/880261
-高分电影,https://live.metshop.top/huya/16615910
-搞笑僵尸片,https://live.metshop.top/huya/11352963
-国产青春,https://live.metshop.top/huya/11602075
-好莱坞,https://live.metshop.top/huya/21059587
-黑帮斗争,https://live.metshop.top/huya/11342419
-红海行动,https://live.metshop.top/huya/11601986
-极限挑战,https://live.metshop.top/huya/11352914
- 金庸武侠,https://live.metshop.top/huya/11342435
- 金庸电影,https://live.metshop.top/huya/11352897
-经典高智商,https://live.metshop.top/huya/11352962
-经典好片,https://live.metshop.top/huya/11342427
-经典喜剧,https://live.metshop.top/huya/11352894
-精彩不断,https://live.metshop.top/huya/24396428
-精忠岳飞,https://live.metshop.top/huya/11336578
-警匪,https://live.metshop.top/huya/11352886
-救援电影,https://live.metshop.top/huya/21059586
-科幻电影,https://live.metshop.top/huya/11602034
-路飞,https://live.metshop.top/huya/16913382
-麻雀,https://live.metshop.top/huya/11352881
-命案十三宗,https://live.metshop.top/huya/11601981
-魔法世界,https://live.metshop.top/huya/21059580
-欧美电影,https://live.metshop.top/huya/11352880
-欧美电影1,https://live.metshop.top/huya/21059581
-欧美娱乐,httphttps://live.metshop.top/huya/21059574
-倩女幽魂,https://live.metshop.top/huya/11601970
-港台电影,https://live.metshop.top/huya/880261
-黑帮斗争,https://live.metshop.top/huya/11342419
-老外电影,https://live.metshop.top/huya/11601986
-极限挑战,httphttps://live.metshop.top/huya/11352914
-金庸电影1,https://live.metshop.top/huya/11352897
-经典电影1,https://live.metshop.top/huya/11352962
- 经典好片,https://live.metshop.top/huya/11342427
-经典喜剧片,https://live.metshop.top/huya/11352894
- 警匪电影,https://live.metshop.top/huya/11352886
-救援电影1,https://live.metshop.top/huya/21059586
-科幻电影1,https://live.metshop.top/huya/11602034
+周星星,http://47.103.147.99:35455/huya/11342412
+ 林正英,http://47.103.147.99:35455/huya/11342421
+沈腾,http://47.103.147.99:35455/huya/11601968
+成龙,http://47.103.147.99:35455/huya/11342386
+李连杰,http://47.103.147.99:35455/huya/11342390
+刘德华,http://47.103.147.99:35455/huya/11342424
+王晶,http://47.103.147.99:35455/huya/11602058
+中华小当家,http://47.103.147.99:35455/huya/11342413
+杰森·斯坦森,http://47.103.147.99:35455/huya/21059588
+喜剧专场,http://47.103.147.99:35455/huya/11602044
+甄子丹,http://47.103.147.99:35455/huya/11352935
+巨石强森,http://47.103.147.99:35455/huya/21059581
+洪金宝,http://47.103.147.99:35455/huya/1279251
+詹姆斯邦德,http://47.103.147.99:35455/huya/21059585
+周润发,http://47.103.147.99:35455/huya/11342387
+徐峥,http://47.103.147.99:35455/huya/11602043
+许氏三杰,http://47.103.147.99:35455/huya/11602033
+黄渤,http://47.103.147.99:35455/huya/11352876
+张卫健,http://47.103.147.99:35455/huya/11342423
+经典港片老电影,http://47.103.147.99:35455/huya/30569705
+蓝光4k,http://47.103.147.99:35455/huya/11352909
+经典电影怀旧,http://47.103.147.99:35455/huya/30545789
+豆瓣9.8分电影,http://47.103.147.99:35455/huya/30488738
+电影,http://47.103.147.99:35455/huya/126859
+德爷荒野求生,http://47.103.147.99:35455/huya/16289380
+荒野求生,http://47.103.147.99:35455/huya/593667
+和平精英,http://47.103.147.99:35455/huya/962270
+天天吃鸡,http://47.103.147.99:35455/huya/52988
+穿越火线,http://47.103.147.99:35455/huya/512000
+王者荣耀,http://47.103.147.99:35455/huya/861098
+麻将,http://47.103.147.99:35455/huya/520611
+武林外传动画版,http://47.103.147.99:35455/huya/28029108
+斗罗大陆,http://47.103.147.99:35455/huya/11352906
+百鸟朝凤,http://47.103.147.99:35455/huya/15894162
+陈翔六点半,http://47.103.147.99:35455/huya/11274154
+电锯惊魂,http://47.103.147.99:35455/huya/11352903
+虎牙电影,http://47.103.147.99:35455/huya/618917
+港台电影,http://47.103.147.99:35455/huya/880261
+高分电影,http://47.103.147.99:35455/huya/16615910
+搞笑僵尸片,http://47.103.147.99:35455/huya/11352963
+国产青春,http://47.103.147.99:35455/huya/11602075
+好莱坞,http://47.103.147.99:35455/huya/21059587
+黑帮斗争,http://47.103.147.99:35455/huya/11342419
+红海行动,http://47.103.147.99:35455/huya/11601986
+极限挑战,http://47.103.147.99:35455/huya/11352914
+ 金庸武侠,http://47.103.147.99:35455/huya/11342435
+ 金庸电影,http://47.103.147.99:35455/huya/11352897
+经典高智商,http://47.103.147.99:35455/huya/11352962
+经典好片,http://47.103.147.99:35455/huya/11342427
+经典喜剧,http://47.103.147.99:35455/huya/11352894
+精彩不断,http://47.103.147.99:35455/huya/24396428
+精忠岳飞,http://47.103.147.99:35455/huya/11336578
+警匪,http://47.103.147.99:35455/huya/11352886
+救援电影,http://47.103.147.99:35455/huya/21059586
+科幻电影,http://47.103.147.99:35455/huya/11602034
+命案十三宗,http://47.103.147.99:35455/huya/11601981
+魔法世界,http://47.103.147.99:35455/huya/21059580
+欧美电影,http://47.103.147.99:35455/huya/11352880
+欧美电影1,http://47.103.147.99:35455/huya/21059581
+欧美娱乐,http://47.103.147.99:35455/huya/21059574
+倩女幽魂,http://47.103.147.99:35455/huya/11601970
+港台电影,http://47.103.147.99:35455/huya/880261
+黑帮斗争,http://47.103.147.99:35455/huya/11342419
+老外电影,http://47.103.147.99:35455/huya/11601986
+极限挑战,http://47.103.147.99:35455/huya/11352914
+金庸电影1,http://47.103.147.99:35455/huya/11352897
+经典电影1,http://47.103.147.99:35455/huya/11352962
+ 经典好片,http://47.103.147.99:35455/huya/11342427
+经典喜剧片,http://47.103.147.99:35455/huya/11352894
+ 警匪电影,http://47.103.147.99:35455/huya/11352886
+救援电影1,http://47.103.147.99:35455/huya/21059586
+科幻电影1,http://47.103.147.99:35455/huya/11602034
 
-欧美电影1,https://live.metshop.top/huya/11352880
-欧美电影2,https://live.metshop.top/huya/21059581
-猫和老鼠,https://live.metshop.top/huya/11352879
-史诗战争电影,https://live.metshop.top/huya/21059556
-喜剧专场,https://live.metshop.top/huya/11602044
-电影1,https://live.metshop.top/huya/11601981
-电影2,https://live.metshop.top/huya/11601970
- 电影3,https://live.metshop.top/huya/11602077
-电影4,https://live.metshop.top/huya/21059579
-电影5,https://live.metshop.top/huya/23652317
-电影6,httphttps://live.metshop.top/huya/21059577
-电影7,https://live.metshop.top/huya/11601971
-电影8,https://live.metshop.top/huya/11342414
-虎牙-庆余年,https://live.metshop.top/huya/11352960
- 虎牙-三国演义,https://live.metshop.top/huya/11602077
-虎牙-神话,http:https://live.metshop.top/huya/11352913
-虎牙-生活大爆炸,https://live.metshop.top/huya/11342417
-虎牙-史诗级战争电影,https://live.metshop.top/huya/21059556
-虎牙-孙悟空,httphttps://live.metshop.top/huya/11342395
-虎牙-太空混战,https://live.metshop.top/huya/21059579
-虎牙-天雷滚滚,https://live.metshop.top/huya/11352945
-虎牙-天龙八部,https://live.metshop.top/huya/11602041
-虎牙-歪果仁动作,https://live.metshop.top/huya/21059552
-虎牙-文成公主,http:https://live.metshop.top/huya/11352974
-虎牙-我是大哥大,https://live.metshop.top/huya/23652317
-虎牙-喜剧合家欢,httphttps://live.metshop.top/huya/11352877
-虎牙-喜剧专场,https://live.metshop.top/huya/11602044
-虎牙-小鲤鱼,http:https://live.metshop.top/huya/11601961
-虎牙-新三国,https://live.metshop.top/huya/11352944
- 虎牙-悬疑推理,https://live.metshop.top/huya/17445539
-虎牙-杨门女将,httphttps://live.metshop.top/huya/11336590
-虎牙-医馆笑传,https://live.metshop.top/huya/11352891
-虎牙-异形世界,https://live.metshop.top/huya/21059577
-虎牙-甄嬛传,https://live.metshop.top/huya/11601971
-虎牙-止戈电影,https://live.metshop.top/huya/19863777
-虎牙-中国功夫,https://live.metshop.top/huya/11352941
-虎牙-朱雀青龙,https://live.metshop.top/huya/11352905
-虎牙-捉妖记,https://live.metshop.top/huya/11342414
+欧美电影1,http://47.103.147.99:35455/huya/11352880
+欧美电影2,http://47.103.147.99:35455/huya/21059581
+猫和老鼠,http://47.103.147.99:35455/huya/11352879
+史诗战争电影,http://47.103.147.99:35455/huya/21059556
+喜剧专场,http://47.103.147.99:35455/huya/11602044
+电影1,http://47.103.147.99:35455/huya/11601981
+电影2,http://47.103.147.99:35455/huya/11601970
+ 电影3,http://47.103.147.99:35455/huya/11602077
+电影4,http://47.103.147.99:35455/huya/21059579
+电影5,http://47.103.147.99:35455/huya/23652317
+电影6,http://47.103.147.99:35455/huya/21059577
+电影7,http://47.103.147.99:35455/huya/11601971
+电影8,http://47.103.147.99:35455/huya/11342414
+虎牙-庆余年,http://47.103.147.99:35455/huya/11352960
+ 虎牙-三国演义,http://47.103.147.99:35455/huya/11602077
+虎牙-神话,http://47.103.147.99:35455/huya/11352913
+虎牙-生活大爆炸,http://47.103.147.99:35455/huya/11342417
+虎牙-史诗级战争电影,http://47.103.147.99:35455/huya/21059556
+虎牙-孙悟空,http://47.103.147.99:35455/huya/11342395
+虎牙-太空混战,http://47.103.147.99:35455/huya/21059579
+虎牙-天雷滚滚,http://47.103.147.99:35455/huya/11352945
+虎牙-天龙八部,http://47.103.147.99:35455/huya/11602041
+虎牙-歪果仁动作,http://47.103.147.99:35455/huya/21059552
+虎牙-文成公主,http://47.103.147.99:35455/huya/huya/11352974
+虎牙-我是大哥大,http://47.103.147.99:35455/huya/23652317
+虎牙-喜剧合家欢,http://47.103.147.99:35455/huya/11352877
+虎牙-喜剧专场,http://47.103.147.99:35455/huya/11602044
+虎牙-小鲤鱼,http://47.103.147.99:35455/huya/11601961
+虎牙-新三国,http://47.103.147.99:35455/huya/11352944
+ 虎牙-悬疑推理,http://47.103.147.99:35455/huya/17445539
+虎牙-杨门女将,http://47.103.147.99:35455/huya/11336590
+虎牙-医馆笑传,http://47.103.147.99:35455/huya/11352891
+虎牙-异形世界,http://47.103.147.99:35455/huya/21059577
+虎牙-甄嬛传,http://47.103.147.99:35455/huya/11601971
+虎牙-止戈电影,http://47.103.147.99:35455/huya/19863777
+虎牙-中国功夫,http://47.103.147.99:35455/huya/11352941
+虎牙-朱雀青龙,http://47.103.147.99:35455/huya/11352905
+虎牙-捉妖记,http://47.103.147.99:35455/huya/11342414
+
+
 
 
 
