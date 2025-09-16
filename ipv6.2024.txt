@@ -6,73 +6,55 @@
 后果自负,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
 
 V4央视专线,#genre#
-CCTV1,http://49.64.233.200:8800/rtp/239.49.8.134:6000
-CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
-CCTV1,http://ygbh.site/php/bfgd.php?id=488
-CCTV1,http://171.116.147.32:9003/hls/1/index.m3u8
-CCTV1,http://27.24.215.54:5003/cctv1.m3u8?token=7375646ffddbd340db37c0eb327382f8204b8a9e&z=1f40
-CCTV1,http://36.135.118.195:85/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2,http://49.64.233.198:8800/rtp/239.49.1.2:6000
-CCTV2,http://111.43.126.240:9003/hls/14/index.m3u8
-CCTV2,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
 
-CCTV3,http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
+CCTV-1 综合,https://migu.188766.xyz/?migutoken=42ea9b9ae720d5272cd7d92f510c1022&id=CCTV1&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-2 财经,https://migu.188766.xyz/?migutoken=2fa2b8d5e1ceafd4eb68a860fcb7fff0&id=CCTV2&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-3 综艺,https://migu.188766.xyz/?migutoken=9f3d855ccf6e4c71b05a392f990da3a0&id=CCTV3&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-4 中文国际,https://migu.188766.xyz/?migutoken=86aea87316bb9b735baaee8bae9b5a38&id=CCTV4&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-5 体育,https://migu.188766.xyz/?migutoken=7352cad503dfaeb4887c50e638fb541e&id=CCTV5&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-5+ 体育赛事,https://migu.188766.xyz/?migutoken=b81b52dc60ec0406f2083fcb008bfa1e&id=CCTV5p&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-6 电影,https://migu.188766.xyz/?migutoken=ee53612f08b5ddac74993905ebfd2a1a&id=CCTV6&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-7 国防军事,https://migu.188766.xyz/?migutoken=723dfee3c654e785a73467c24ef63f44&id=CCTV7&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-8 电视剧,https://migu.188766.xyz/?migutoken=4c341aa0db61319ffe7afee6a8502b5e&id=CCTV8&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-9 纪录,https://migu.188766.xyz/?migutoken=d9c2a88e68ae721117324406e08ab037&id=CCTV9&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-10 科教,https://migu.188766.xyz/?migutoken=a8b7399cd5aa4473dac13d29369ab58c&id=CCTV10&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-11 戏曲,https://migu.188766.xyz/?migutoken=4138139c06884fbe5f76b29663678e2e&id=CCTV11&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-12 社会与法,https://migu.188766.xyz/?migutoken=5ebb2d52c519e09a9a736b6aee7ebb79&id=CCTV12&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-13 新闻,https://migu.188766.xyz/?migutoken=4ad4193886815f56962ab0bfc50ef87e&id=CCTV13&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-14 少儿,https://migu.188766.xyz/?migutoken=df2dabc2b622c753cf423cbfd21c0590&id=CCTV14&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-15 音乐,https://migu.188766.xyz/?migutoken=58103df7fc71881cf4e5a5f1d1acb887&id=CCTV15&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-17 农业农村,https://migu.188766.xyz/?migutoken=fb2ef2073aa5f7d4c819ab1f20944cbc&id=CCTV17&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-4 中文国际 欧洲,https://migu.188766.xyz/?migutoken=345f6e38b04ef0d4790cb1afdeee9aca&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+CCTV-4 中文国际 美洲,https://migu.188766.xyz/?migutoken=eaee54c895a7b49dc9789a42fc8115b3&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
 
-CCTV4,http://49.64.233.198:8800/rtp/239.49.1.4:6000
-CCTV4,http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
-CCTV5,http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
-http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
-CCTV6,http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
-CCTV7,http://api.kkitv.itv888.cn:8080/hls/3udggaszi1i/index.m3u8
-CCTV8,http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
-CCTV9,http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
-CCTV10,http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
-CCTV11,http://api.kkitv.itv888.cn:8080/hls/og4kq4cnqm/index.m3u8
-CCTV12,http://api.kkitv.itv888.cn:8080/hls/nwfb31kwc3l/index.m3u8
-CCTV13,http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
-CCTV14,http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
-CCTV15,http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
-CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
-CCTV17,http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
 V4卫视专线,#genre#
+湖南卫视,https://migu.188766.xyz/?migutoken=c9c701ac69e1f7ee2a4e6080f715180d&id=hunws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8&token=700ea451fef3c5ccb186a8b76de022d4
+江苏卫视,https://migu.188766.xyz/?migutoken=4fb6c5a905fad26188313a7a8fc81a11&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+东方卫视,https://migu.188766.xyz/?migutoken=25eb345b8659ddecf2e6c9ad86463ca0&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+北京卫视,https://migu.188766.xyz/?migutoken=d85d0f96a10d80873522b42ecd20ebd0&id=bjws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+深圳卫视,https://migu.188766.xyz/?migutoken=d69bc0807b6d8c1870694ff54e04847b&id=szws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+广东卫视,https://migu.188766.xyz/?migutoken=61c730d7d04e8d21dbcce50c0102ae38&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+广东卫视,https://migu.188766.xyz/?migutoken=4f1678f4db670a2ad95f5d18b0c5c346&id=gdws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+安徽卫视,https://migu.188766.xyz/?migutoken=5e301efe2fb725f96aec76346bc309c2&id=ahws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+天津卫视,https://migu.188766.xyz/?migutoken=b2b8504b61065593afee64b10c4ee72e&id=tjws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+湖北卫视,https://migu.188766.xyz/?migutoken=b2ae4d9fe49c2285644d91b28c76f8c2&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+辽宁卫视,https://migu.188766.xyz/?migutoken=8f0255a2241b6ecb2937c90688a07e80&id=lnws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+江西卫视,https://migu.188766.xyz/?migutoken=66d3c5beccde1bdfed60245e35bfc22e&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+黑龙江卫视,https://migu.188766.xyz/?migutoken=f89d83547c310f41c873eb4a8bf048bf&id=hljws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+重庆卫视,https://migu.188766.xyz/?migutoken=5f0e9c5d63e00ce724901524c92a060a&id=cqws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+贵州卫视,https://migu.188766.xyz/?migutoken=6abcfa60bc1462e24d26de753489df70&id=gzws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+吉林卫视,https://migu.188766.xyz/?migutoken=9097b3a3fc500623afdeb7b6c8355a51&id=jlws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+四川卫视,https://migu.188766.xyz/?migutoken=5804972d0685eaa53c56acf030dd2a36&id=scws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+河南卫视,https://migu.188766.xyz/?migutoken=89b1db738b2860570976dd4f120843e6&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+广西卫视,https://migu.188766.xyz/?migutoken=6efef796f186c407acf44b4ee09f6b6b&id=gxws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+山西卫视,https://migu.188766.xyz/?migutoken=a7b31167d33d19af7577101f386113c2&id=sxws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+云南卫视,https://migu.188766.xyz/?migutoken=f51187dd8bfb3796ff0456a5bcb26ede&id=ynws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+陕西卫视,https://migu.188766.xyz/?migutoken=def17fc76c1e43e0a066d65263f29da2&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy&token=700ea451fef3c5ccb186a8b76de022d4
+甘肃卫视,https://migu.188766.xyz/?migutoken=94e0cedaf9f32d0751d188e82761ea26&id=gsws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4青海卫视,https://migu.188766.xyz/?migutoken=29b367db6a3f7a6670fe8b9b76eb8952&id=qhws&type=sz&token=700ea451fef3c5ccb186a8b76de022d4
+兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8&token=700ea451fef3c5ccb186a8b76de022d4
+大湾区卫视,https://migu.188766.xyz/?migutoken=65a9cacbba8c68669682dbdb514fc2f4&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy&token=700ea451fef3c5ccb186a8b76de022d4 
 
-安徽卫视HD,http://60.172.83.86:8686/rtp/238.1.79.27:4328
-北京卫视HD,http://60.172.83.86:8686/rtp/238.1.78.162:7168
-天津卫视HD,http://60.172.83.86:8686/rtp/238.1.78.20:6088
-重庆卫视HD,http://60.172.83.86:8686/rtp/238.1.78.31:6176
-东方卫视HD,http://60.172.83.86:8686/rtp/238.1.78.163:7176
-安徽卫视HD,http://60.172.83.86:8686/rtp/238.1.78.150:7072
-江苏卫视HD,http://60.172.83.86:8686/rtp/238.1.78.165:7192
-浙江卫视HD,http://60.172.83.86:8686/rtp/238.1.78.164:7184
-黑龙江卫视HD,http://60.172.83.86:8686/rtp/238.1.78.159:7144
-吉林卫视HD,http://60.172.83.86:8686/rtp/238.1.79.48:4496
-辽宁卫视HD,http://60.172.83.86:8686/rtp/238.1.78.21:6096
-东南卫视HD,http://60.172.83.86:8686/rtp/238.1.78.22:6104
-四川卫视HD,http://60.172.83.86:8686/rtp/238.1.78.30:6168
-江西卫视HD,http://60.172.83.86:8686/rtp/238.1.78.26:6136
-广东卫视HD,http://60.172.83.86:8686/rtp/238.1.78.161:7160
-海南卫视HD,http://60.172.83.86:8686/rtp/238.1.79.49:4504
-湖北卫视HD,http://60.172.83.86:8686/rtp/238.1.78.168:7216
-湖南卫视HD,http://60.172.83.86:8686/rtp/238.1.78.160:7152
-贵州卫视HD,http://60.172.83.86:8686/rtp/238.1.78.244:7824
-河北卫视HD,http://60.172.83.86:8686/rtp/238.1.78.245:7832
-河南卫视HD,http://60.172.83.86:8686/rtp/238.1.79.65:4632
-山东卫视HD,http://60.172.83.86:8686/rtp/238.1.78.169:7224
-甘肃卫视HD,http://60.172.83.86:8686/rtp/238.1.79.36:4400
-陕西卫视,http://60.172.83.86:8686/rtp/238.1.78.88:6576
-云南卫视,http://60.172.83.86:8686/rtp/238.1.78.89:6584
-山西卫视,http://60.172.83.86:8686/rtp/238.1.78.95:6632
-青海卫视,http://60.172.83.86:8686/rtp/238.1.78.102:6688
-广西卫视,http://60.172.83.86:8686/rtp/238.1.78.70:6432
-内蒙古卫视,http://60.172.83.86:8686/rtp/238.1.78.103:6696
-宁夏卫视,http://60.172.83.86:8686/rtp/238.1.78.109:6744
-新疆卫视,http://60.172.83.86:8686/rtp/238.1.78.110:6752
-西藏卫视,http://60.172.83.86:8686/rtp/238.1.78.101:6680
-
-深圳卫视HD,http://60.172.83.86:8686/rtp/238.1.78.156:7120
-兵团卫视,http://60.172.83.86:8686/rtp/238.1.78.104:6704
-三沙卫视,http://60.172.83.86:8686/rtp/238.1.78.27:6144
-厦门卫视,http://60.172.83.86:8686/rtp/238.1.78.246:7840
 
 
 
